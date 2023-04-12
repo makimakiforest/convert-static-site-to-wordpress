@@ -1,17 +1,8 @@
 .test {
-  font-size: "14px";
-}
-
-.test {
-  color: blue;
-}
-@media screen and (min-width: 400px) {
-  .test {
-    color: yellow;
-  }
-}
-@media screen and (min-width: 1000px) {
-  .test {
-    color: red;
-  }
-}
+  color: #0075c2; }
+  @media screen and (min-width: 400px) {
+    .test {
+      color: #ff0; } }
+  @media screen and (min-width: 1000px) {
+    .test {
+      color: #f00; } }

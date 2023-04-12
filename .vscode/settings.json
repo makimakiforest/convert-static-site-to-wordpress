@@ -37,5 +37,11 @@
       "italic": false
     }
   ],
-  "todo-tree.general.tags": ["HACK", "FIXME", "TODO", "NOTE"]
+  "todo-tree.general.tags": ["HACK", "FIXME", "TODO", "NOTE"],
+  "cSpell.words": ["kamegoro", "stylelint"],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "stylelint.stylelintPath": "node_modules/stylelint",
+  "stylelint.validate": ["scss"]
 }
