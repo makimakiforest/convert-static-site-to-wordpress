@@ -1,0 +1,12 @@
+{
+  "name": "convert-static-site-to-wordpress",
+  "version": "1.0.0",
+  "description": "This is an application to convert a static site to wordpress and host it on your server.",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "kamegoro",
+  "devDependencies": {
+    "node-sass": "8.0.0"
+  }
+}
