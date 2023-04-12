@@ -1,6 +1,6 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": [
-    "config:base"
-  ]
+  "description": "Renovateのドキュメント => https://docs.renovatebot.com ",
+  "extends": ["config:base"],
+  "baseBranches": ["main"],
+  "reviewers": ["kamegoro", "ichikawa52hotaro"]
 }
