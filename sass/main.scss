@@ -1,18 +1,14 @@
-@import "_breakpoint";
-@import "_mixin";
+@import '_breakpoint';
+@import '_mixin';
 
 .test {
-  font-size: "14px";
-}
-
-.test {
-  color: blue;
+  color: #0075c2;
 
   @include mq(sm) {
-    color: yellow;
+    color: #ff0;
   }
 
   @include mq(lg) {
-    color: red;
+    color: #f00;
   }
 }
