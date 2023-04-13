@@ -1,8 +1,15 @@
-.hogehoge {
-  color: #0075c2; }
-  @media screen and (min-width: 400px) {
-    .test {
-      color: #ff0; } }
-  @media screen and (min-width: 1000px) {
-    .test {
-      color: #f00; } }
+.test {
+  color: #0075c2;
+}
+@media screen and (min-width: 400px) {
+  .test {
+    color: #ff0;
+  }
+}
+@media screen and (min-width: 1000px) {
+  .test {
+    color: #f00;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
