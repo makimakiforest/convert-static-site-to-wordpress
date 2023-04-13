@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This is an application to convert a static site to wordpress and host it on your server.",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w",
+    "compile:sass": "sass sass/main.scss css/style.css -w",
     "lint:style": "stylelint '**/*.{css,scss,sass}'",
     "lint:style:fix": "stylelint --fix '**/*.{css,scss,sass}'"
   },
