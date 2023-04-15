@@ -1,0 +1,54 @@
+header {
+  margin: 0 150 0 150;
+  padding: 110 50;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo_svg {
+  width: 120px;
+}
+
+header ul {
+  display: flex;
+}
+
+header ul li {
+  list-style: none;
+  margin-left: 30px;
+}
+
+header ul li a {
+  text-decoration: none;
+  color: 24292e;
+  font-size: 14px;
+}
+
+.instagram {
+  width: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  header {
+    display: block;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+  }
+  .logo_svg {
+    margin-top: 20px;
+  }
+  header ul {
+    padding-bottom: 20px;
+    padding-top: 10px;
+    justify-content: center;
+    column-gap: 20px;
+  }
+  header ul li {
+    margin-left: 0;
+  }
+  .instagram {
+    margin-right: 40px;
+  }
+}
