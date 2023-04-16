@@ -36,18 +36,22 @@ header a {
     margin: auto;
     text-align: center;
   }
+
   .logo-svg {
     margin-top: 20px;
   }
+
   header ul {
     column-gap: 20px;
     justify-content: center;
     padding-top: 10px;
     padding-bottom: 20px;
   }
+
   header li {
     margin-left: 0;
   }
+
   .instagram {
     margin-right: 40px;
   }
