@@ -1,12 +1,12 @@
 header {
-  margin: 0 150 0 150;
-  padding: 110 50;
   display: flex;
-  align-items: center;
   justify-content: space-between;
+  padding: 110 50;
+  margin: 0 150;
+  align-items: center;
 }
 
-.logo_svg {
+.logo-svg {
   width: 120px;
 }
 
@@ -14,15 +14,15 @@ header ul {
   display: flex;
 }
 
-header ul li {
-  list-style: none;
+header li {
   margin-left: 30px;
+  list-style: none;
 }
 
-header ul li a {
-  text-decoration: none;
-  color: 24292e;
+header a {
   font-size: 14px;
+  color: rgb(42, 42, 42);
+  text-decoration: none;
 }
 
 .instagram {
@@ -32,20 +32,20 @@ header ul li a {
 @media screen and (max-width: 767px) {
   header {
     display: block;
-    margin: auto;
     padding: 0;
+    margin: auto;
     text-align: center;
   }
-  .logo_svg {
+  .logo-svg {
     margin-top: 20px;
   }
   header ul {
-    padding-bottom: 20px;
-    padding-top: 10px;
-    justify-content: center;
     column-gap: 20px;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
   }
-  header ul li {
+  header li {
     margin-left: 0;
   }
   .instagram {
