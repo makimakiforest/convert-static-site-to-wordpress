@@ -2,8 +2,8 @@ header {
   display: flex;
   justify-content: space-between;
   padding: 110 50;
-  margin: 0 150;
   align-items: center;
+  margin: 0 150;
 }
 
 .logo-svg {
