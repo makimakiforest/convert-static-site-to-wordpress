@@ -6,7 +6,7 @@ header {
   margin: 0 150;
 }
 
-.logo-svg {
+.logo {
   width: 120px;
 }
 
@@ -37,7 +37,7 @@ header a {
     text-align: center;
   }
 
-  .logo-svg {
+  .logo {
     margin-top: 20px;
   }
 
