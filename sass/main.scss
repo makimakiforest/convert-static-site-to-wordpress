@@ -1,5 +1,8 @@
+// NOTE: 上から順にCSSにコンパイルされるので気をつけてください
 @import '_breakpoint';
 @import '_mixin';
+
+@import '_footer';
 
 .test {
   color: #0075c2;
