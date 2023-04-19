@@ -11,6 +11,8 @@ module.exports = {
     'scss/selector-no-union-class-name': true,
     // import時の`_`を許容する
     'scss/at-import-no-partial-leading-underscore': null,
+    // cssの改行の有無を無視する
+    'rule-empty-line-before': null,
   },
   ignoreFiles: ['**/node_modules/**', 'css/reset.css'],
 };
