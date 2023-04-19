@@ -8,9 +8,9 @@ https://github.com/makimakiforest/convert-static-site-to-wordpress/issues/#{issu
 
 ## スクリーンショット（変更前/変更後）
 
-| Before             | After             |
-| ------------------ | ----------------- |
-| {Before image url} | {After image url} |
+| PC             | SP             |
+| -------------- | -------------- |
+| {PC image url} | {SP image url} |
 
 ## 確認事項
 
