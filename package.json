@@ -3,16 +3,21 @@
   "version": "1.0.0",
   "description": "This is an application to convert a static site to wordpress and host it on your server.",
   "scripts": {
-    "compile:sass": "node-sass sass/main.scss css/style.css -w",
+    "compile:sass": "sass sass/main.scss css/style.css -w",
     "lint:style": "stylelint '**/*.{css,scss,sass}'",
     "lint:style:fix": "stylelint --fix '**/*.{css,scss,sass}'"
   },
   "author": "kamegoro",
   "devDependencies": {
+<<<<<<< HEAD
     "node-sass": "^8.0.0",
     "postcss": "8.4.21",
+=======
+    "postcss": "8.4.23",
+>>>>>>> main
     "prettier": "2.8.7",
-    "stylelint": "15.4.0",
+    "sass": "1.62.0",
+    "stylelint": "15.5.0",
     "stylelint-config-recess-order": "4.0.0",
     "stylelint-config-recommended-scss": "10.0.0",
     "stylelint-config-sass-guidelines": "10.0.0"
