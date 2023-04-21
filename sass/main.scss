@@ -4,17 +4,5 @@
 @import '_common';
 
 @import '_about';
-
+@import '_news';
 @import '_footer';
-
-.test {
-  color: #0075c2;
-
-  @include mq(sm) {
-    color: #ff0;
-  }
-
-  @include mq(lg) {
-    color: #f00;
-  }
-}
