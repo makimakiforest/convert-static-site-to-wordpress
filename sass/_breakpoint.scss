@@ -1,7 +1,7 @@
 // NOTE: 必要に応じて値は更新してください
 $breakpoints: (
-  'sm': 'screen and (min-width: 400px)',
-  'md': 'screen and (min-width: 768px)',
-  'lg': 'screen and (min-width: 1000px)',
-  'xl': 'screen and (min-width: 1200px)',
+  'sm': 'screen and (max-width: 400px)',
+  'md': 'screen and (max-width: 600px)',
+  'lg': 'screen and (max-width: 1000px)',
+  'xl': 'screen and (max-width: 1200px)',
 ) !default;
