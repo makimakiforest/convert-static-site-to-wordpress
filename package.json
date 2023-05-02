@@ -12,7 +12,7 @@
     "postcss": "8.4.23",
     "prettier": "2.8.8",
     "sass": "1.62.1",
-    "stylelint": "15.6.0",
+    "stylelint": "15.6.1",
     "stylelint-config-recess-order": "4.0.0",
     "stylelint-config-recommended-scss": "11.0.0",
     "stylelint-config-sass-guidelines": "10.0.0"
