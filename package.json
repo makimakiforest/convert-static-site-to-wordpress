@@ -9,7 +9,7 @@
   },
   "author": "kamegoro",
   "devDependencies": {
-    "postcss": "8.4.27",
+    "postcss": "8.4.28",
     "prettier": "3.0.1",
     "sass": "1.66.1",
     "stylelint": "15.10.2",
