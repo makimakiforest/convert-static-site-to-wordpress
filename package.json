@@ -10,7 +10,7 @@
   "author": "kamegoro",
   "devDependencies": {
     "postcss": "8.4.31",
-    "prettier": "3.0.3",
+    "prettier": "3.1.0",
     "sass": "1.69.5",
     "stylelint": "15.11.0",
     "stylelint-config-recess-order": "4.3.0",
