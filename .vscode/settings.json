@@ -40,7 +40,7 @@
   "todo-tree.general.tags": ["HACK", "FIXME", "TODO", "NOTE"],
   "cSpell.words": ["kamegoro", "stylelint", "ichikawa52hotaro"],
   "editor.codeActionsOnSave": {
-    "source.fixAll.stylelint": "explicit"
+    "source.fixAll.stylelint": true
   },
   "stylelint.stylelintPath": "node_modules/stylelint",
   "stylelint.validate": ["scss"]
