@@ -1,6 +1,0 @@
-{
-  "description": "Renovateのドキュメント => https://docs.renovatebot.com ",
-  "extends": ["config:base"],
-  "baseBranches": ["main"],
-  "reviewers": ["kamegoro", "ichikawa52hotaro"]
-}
